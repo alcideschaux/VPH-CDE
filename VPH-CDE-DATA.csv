@@ -1,0 +1,128 @@
+edad,estado_civil,escolaridad_nivel,hijos,tabaquismo,alcohol,menarca,anticonceptivos,parejas_sexuales,antecedentes_cancer,vph
+31,Union libre,Terciario,2,Sí,Frecuentemente,15,Sí,3,No,Positivo
+43,Soltera,Secundario,4,No,Frecuentemente,15,Sí,4,No,Positivo
+64,Divorciada,Secundario,4,Sí,Frecuentemente,15,No,3,No,Negativo
+45,Soltera,Primario,4,No,No,12,Sí,2,No,Negativo
+27,Casada,Primario,1,No,No,13,Sí,1,No,Negativo
+55,Casada,Secundario,4,No,No,15,Sí,2,No,Negativo
+40,Union libre,Secundario,3,No,No,14,Sí,2,No,Negativo
+40,Casada,Secundario,2,No,No,13,Sí,3,No,Negativo
+32,Union libre,Secundario,2,No,No,15,Sí,2,No,Negativo
+35,Soltera,Secundario,1,No,No,13,Sí,2,No,Negativo
+38,Casada,Secundario,1,No,No,11,Sí,3,No,Negativo
+40,Union libre,Secundario,1,No,No,12,Sí,1,No,Negativo
+35,Soltera,Secundario,2,No,No,11,Sí,3,No,Negativo
+25,Casada,Secundario,1,No,No,12,Sí,2,No,Negativo
+40,Casada,Secundario,3,No,No,14,Sí,1,No,Negativo
+37,Casada,Terciario,4,No,No,12,Sí,1,No,Negativo
+33,Casada,Secundario,3,No,No,15,Sí,15,No,Positivo
+48,Casada,Secundario,2,No,No,18,Sí,2,No,Negativo
+47,Viuda ,Secundario,4,No,No,15,Sí,2,No,Negativo
+34,Union libre,Secundario,2,No,No,13,Sí,6,No,Negativo
+38,Union libre,Primario,3,No,No,12,Sí,2,No,Negativo
+39,Casada,Secundario,4,No,No,15,Sí,1,No,Negativo
+32,Union libre,Primario,3,No,No,12,Sí,3,No,Negativo
+33,Union libre,Primario,1,No,No,16,Sí,3,No,Negativo
+36,Viuda ,Secundario,3,No,No,13,Sí,3,No,Positivo
+31,Soltera,Terciario,2,No,No,13,Sí,4,No,Negativo
+42,Union libre,Primario,6,No,No,12,Sí,2,No,Negativo
+30,Soltera,Secundario,3,No,No,15,Sí,3,No,Negativo
+44,Union libre,Secundario,1,No,No,11,Sí,3,No,Positivo
+49,Viuda ,Secundario,2,No,No,13,Sí,3,No,Negativo
+33,Union libre,Secundario,3,No,No,10,Sí,3,No,Positivo
+40,Casada,Secundario,2,No,No,15,Sí,2,No,Negativo
+38,Casada,Terciario,3,No,No,13,Sí,2,No,Negativo
+31,Casada,Terciario,2,No,No,14,Sí,2,No,Negativo
+39,Casada,Secundario,4,No,No,11,Sí,2,No,Negativo
+53,Union libre,Secundario,4,No,No,12,Sí,3,No,Negativo
+39,Union libre,Secundario,2,No,No,15,Sí,2,No,Negativo
+35,Casada,Terciario,3,No,No,13,Sí,1,No,Negativo
+31,Soltera,Secundario,2,No,No,9,Sí,2,No,Negativo
+43,Soltera,Secundario,2,No,No,17,Sí,1,No,Negativo
+31,Soltera,Secundario,3,No,No,15,Sí,3,No,Negativo
+45,Casada,Secundario,3,No,No,13,Sí,2,No,Negativo
+46,Casada,Secundario,4,No,No,15,Sí,2,No,Negativo
+37,Union libre,Secundario,3,No,No,13,Sí,2,No,Negativo
+36,Casada,Secundario,2,No,No,13,Sí,1,No,Negativo
+49,Casada,Secundario,4,No,No,15,Sí,1,No,Negativo
+45,Casada,Secundario,4,No,No,11,Sí,2,No,Negativo
+62,Casada,Secundario,2,No,No,14,Sí,3,No,Negativo
+63,Casada,Secundario,7,No,No,15,Sí,2,No,Negativo
+49,Casada,Terciario,5,No,No,12,Sí,3,No,Positivo
+30,Union libre,Primario,1,No,No,11,Sí,6,No,Positivo
+46,Casada,Secundario,3,No,No,14,Sí,1,No,Negativo
+31,Casada,Secundario,3,No,No,11,Sí,2,No,Negativo
+34,Union libre,Secundario,2,No,No,13,Sí,4,No,Positivo
+37,Union libre,Secundario,2,No,No,12,Sí,2,No,Negativo
+45,Union libre,Secundario,2,No,No,12,Sí,6,No,Negativo
+24,Union libre,Secundario,0,No,No,18,Sí,3,No,Negativo
+34,Union libre,Terciario,1,No,No,11,Sí,2,No,Negativo
+39,Casada,Primario,3,No,No,16,No,2,No,Negativo
+31,Soltera,Primario,2,No,No,12,No,2,No,Negativo
+62,Casada,Primario,7,No,No,13,No,1,No,Negativo
+37,Casada,Primario,3,No,No,12,No,1,No,Negativo
+62,Casada,Primario,2,No,No,13,No,1,No,Negativo
+23,Soltera,Primario,0,No,No,12,No,3,No,Negativo
+32,Casada,Secundario,1,No,No,12,No,2,No,Negativo
+62,Soltera,Secundario,1,No,No,11,No,2,No,Positivo
+40,Casada,Secundario,2,No,No,15,No,1,No,Negativo
+52,Casada,Secundario,3,No,No,15,No,1,No,Negativo
+42,Soltera,Secundario,3,No,No,12,No,3,No,Negativo
+47,Soltera,Secundario,3,No,No,14,No,3,No,Negativo
+51,Casada,Secundario,3,No,No,13,No,1,No,Negativo
+46,Union libre,Secundario,8,No,No,15,No,3,No,Negativo
+57,Union libre,Secundario,5,No,No,15,No,2,No,Negativo
+54,Casada,Secundario,2,No,No,15,No,2,No,Negativo
+31,Soltera,Secundario,2,No,No,13,No,2,No,Negativo
+47,Soltera,Secundario,3,No,No,16,No,2,No,Negativo
+39,Soltera,Secundario,2,No,No,13,No,2,No,Negativo
+54,Casada,Secundario,4,No,No,16,No,1,No,Positivo
+50,Union libre,Secundario,2,No,No,13,No,1,No,Negativo
+38,Union libre,Secundario,2,No,No,12,No,3,No,Positivo
+53,Casada,Secundario,2,No,No,13,No,2,No,Negativo
+32,Union libre,Secundario,1,No,No,13,No,2,No,Negativo
+51,Casada,Secundario,3,No,No,15,No,1,No,Negativo
+37,Soltera,Secundario,1,No,No,15,No,3,No,Negativo
+24,Casada,Terciario,1,No,No,13,No,1,No,Negativo
+21,Casada,Terciario,0,No,No,15,No,1,No,Negativo
+33,Casada,Terciario,3,No,No,15,No,1,No,Negativo
+29,Casada,Primario,3,No,No,13,Sí,3,Sí,Negativo
+31,Union libre,Terciario,0,No,No,13,No,3,Sí,Negativo
+41,Casada,Terciario,2,No,No,12,Sí,1,Sí,Negativo
+28,Union libre,Primario,3,No,Ocasionalmente,12,Sí,2,No,Negativo
+36,Union libre,Secundario,1,Sí,Ocasionalmente,10,Sí,3,No,Negativo
+51,Casada,Secundario,7,No,Ocasionalmente,13,Sí,4,No,Negativo
+35,Casada,Primario,3,No,Ocasionalmente,15,Sí,3,No,Negativo
+39,Union libre,Primario,2,No,Ocasionalmente,15,Sí,2,No,Negativo
+47,Casada,Secundario,3,No,Ocasionalmente,10,Sí,2,No,Negativo
+42,Casada,Terciario,3,No,Ocasionalmente,11,Sí,2,No,Negativo
+29,Casada,Primario,3,No,Ocasionalmente,13,Sí,5,No,Negativo
+36,Soltera,Secundario,2,No,Ocasionalmente,12,Sí,2,No,Negativo
+31,Soltera,Secundario,1,No,Ocasionalmente,14,Sí,3,No,Negativo
+52,Casada,Secundario,3,No,Ocasionalmente,13,Sí,2,No,Negativo
+43,Casada,Secundario,3,No,Ocasionalmente,13,Sí,2,No,Negativo
+36,Union libre,Terciario,2,No,Ocasionalmente,12,Sí,2,No,Negativo
+47,Soltera,Secundario,2,No,Ocasionalmente,14,Sí,4,No,Negativo
+43,Union libre,Secundario,5,No,Ocasionalmente,10,Sí,4,No,Negativo
+48,Union libre,Primario,3,No,Ocasionalmente,13,Sí,2,No,Negativo
+49,Soltera,Secundario,3,Sí,Ocasionalmente,14,Sí,3,No,Negativo
+47,Union libre,Secundario,6,No,Ocasionalmente,15,Sí,5,No,Negativo
+50,Casada,Secundario,5,No,Ocasionalmente,13,Sí,2,No,Negativo
+44,Union libre,Secundario,3,No,Ocasionalmente,13,Sí,4,No,Positivo
+59,Casada,Secundario,7,No,Ocasionalmente,12,Sí,3,No,Positivo
+31,Union libre,Secundario,4,No,Ocasionalmente,12,Sí,4,No,Positivo
+31,Union libre,Primario,2,No,Ocasionalmente,12,Sí,3,No,Positivo
+32,Soltera,Secundario,1,No,Ocasionalmente,12,Sí,5,No,Negativo
+40,Casada,Terciario,3,No,Ocasionalmente,12,Sí,1,No,Positivo
+37,Union libre,Terciario,1,No,Ocasionalmente,14,Sí,4,No,Negativo
+46,Union libre,Primario,4,No,Ocasionalmente,14,No,3,No,Negativo
+63,Casada,Secundario,8,No,Ocasionalmente,17,No,1,No,Negativo
+43,Soltera,Secundario,5,No,Ocasionalmente,11,No,2,No,Positivo
+43,Casada,Secundario,3,No,Ocasionalmente,12,No,1,No,Negativo
+54,Casada,Secundario,4,No,Ocasionalmente,12,No,1,No,Negativo
+43,Union libre,Secundario,2,No,Ocasionalmente,16,No,2,No,Negativo
+39,Soltera,Terciario,1,No,Ocasionalmente,9,No,3,No,Negativo
+35,Union libre,Secundario,2,No,Ocasionalmente,13,Sí,2,Sí,Negativo
+40,Soltera,Terciario,1,No,Ocasionalmente,15,Sí,4,Sí,Negativo
+38,Soltera,Terciario,0,Sí,Ocasionalmente,13,No,2,Sí,Negativo
+62,Casada,Secundario,3,No,Ocasionalmente,13,Sí,2,Sí,Negativo
